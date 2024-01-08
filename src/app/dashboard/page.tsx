@@ -1,9 +1,9 @@
 
-export default function Collection(){
+export default function Dasboard(){
     return(
         <>
         <div>
-            Collection
+            Dashboard
         </div>
         </>
     )
