@@ -30,7 +30,7 @@
 <h3 align="center">MangaSpot</h3>
 
   <p align="center">
-    project_description
+    The go-to spot for tracking manga!
     <br />
     <a href="https://github.com/AndrewCheung360/MangaSpot"><strong>Explore the docs »</strong></a>
     <br />
