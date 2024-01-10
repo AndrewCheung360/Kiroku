@@ -15,10 +15,10 @@ export default function GoogleSignInButton() {
   return (
     <button
       onClick={handleGoogleSignIn}
-      className="flex w-[90%] border-2 justify-center h-[10%] items-center py-2 rounded-lg hover:bg-gray-100 "
+      className="flex w-[90%] border-2 justify-center h-[10%] items-center py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-neutral-800"
     >
       <GoogleSvg styleString="w-10 h-6" />
-      <span className="font-semibold text-sm text-gray-800">
+      <span className="font-semibold text-sm text-gray-800 dark:text-neutral-100 ">
         Sign in with Google
       </span>
     </button>
