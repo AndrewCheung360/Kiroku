@@ -2,7 +2,8 @@ import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import Header from '../components/Header'
 import './globals.css'
-import { ModalProvider } from '@/providers/ModalProvider'
+import AppProvider from '@/providers/AppProvider'
+import App from 'next/app'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -25,10 +26,10 @@ export default function RootLayout({
     
     <html lang="en">
       <body className={`min-h-screen ${inter.className}`}>
-      <ModalProvider>
+      <AppProvider>
       <Header/>
       {children}
-      </ModalProvider>
+      </AppProvider>
       </body>
     </html>
     
