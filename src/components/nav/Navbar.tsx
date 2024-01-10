@@ -2,8 +2,13 @@
 import Link from "next/link";
 import Logo from "../Logo";
 import NavLink from "./NavLink";
+import DashButton from "./DashboardButton";
 
-export default function Navbar() {
+type NavbarProps = {
+  signedIn: boolean;
+};
+
+export default function Navbar({ signedIn }: NavbarProps) {
   return (
     <>
       <nav className="flex gap-7 items-center">
@@ -15,7 +20,7 @@ export default function Navbar() {
           />
         </Link>
         <div className="flex gap-6">
-          <NavLink path="/dashboard" text="Dashboard" />
+          {signedIn ? <NavLink path="/dashboard" text="Dashboard" /> : <DashButton />}
           <NavLink path="/explore" text="Explore" />
         </div>
       </nav>
