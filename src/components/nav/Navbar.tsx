@@ -15,7 +15,7 @@ export default function Navbar({ signedIn }: NavbarProps) {
         <Link href="/">
           <Logo
             wrapStyle="rounded-lg px-3 py-2 text-3xl"
-            mangaStyle="hover:text-orange-500 transition-all ease-in-out duration-800"
+            mangaStyle="hover:text-cyan-500 transition-all ease-in-out duration-800"
             spotStyle="hover:text-gray-800 hover:dark:text-white transition-all ease-in-out duration-800"
           />
         </Link>

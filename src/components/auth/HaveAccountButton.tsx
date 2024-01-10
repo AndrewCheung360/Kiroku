@@ -18,7 +18,7 @@ export default function HaveAccountButton({
         <span className="text-xs font-semibold text-gray-500 underline dark:text-white">
           {haveAccount ? "Already have an account?" : "Don't have an account?"}
         </span>
-        <span className="text-xs font-semibold text-orange-500 hover:underline">
+        <span className="text-xs font-semibold text-blue-400 hover:underline">
           {haveAccount ? "Sign in" : "Sign up"}
         </span>
       </button>

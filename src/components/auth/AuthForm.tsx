@@ -15,7 +15,7 @@ export default function AuthForm() {
         onClick={(e) => {
           e.stopPropagation();
         }}
-        className="flex flex-col items-center justify-start gap-6 bg-white dark:bg-neutral-900 dark:border-neutral-800 dark:border-2 py-4 rounded-xl w-[30%] h-[80%] px-3"
+        className="flex flex-col items-center justify-start gap-6 bg-white dark:bg-slate-900 dark:border-slate-800 dark:border-2 py-4 rounded-xl w-[30%] h-[80%] px-3"
       >
         <Logo
           wrapStyle=" rounded-lg px-3 py-2 flex justify-center"
@@ -25,7 +25,7 @@ export default function AuthForm() {
         <GoogleSignInButton />
         <div className="flex justify-center items-center gap-2">
           <div className="h-px bg-gray-200 w-36" />
-          <span className="font-semibold text-xs text-gray-500 dark:text-neutral-100">or</span>
+          <span className="font-semibold text-xs text-slate-500 dark:text-neutral-100">or</span>
           <div className="h-px bg-gray-200 w-36" />
         </div>
         <form

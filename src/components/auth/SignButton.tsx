@@ -7,7 +7,7 @@ export default function SignButton({ haveAccount }: SignButtonProps) {
     <>
       <button
         type="submit"
-        className="before:ease relative px-4 py-2 rounded-lg w-full font-semibold text-sm overflow-hidden border border-orange-400 bg-orange-400 dark:bg-orange-500 shadow-2xl transition-all before:absolute before:right-0 before:top-0 before:h-12 before:w-6 before:translate-x-12 before:rotate-6 before:bg-white before:opacity-10 before:duration-700  hover:before:-translate-x-80"
+        className="before:ease relative px-4 py-2 rounded-lg w-full font-semibold text-sm overflow-hidden bg-gradient-to-r from-cyan-500 to-blue-500 shadow-2xl transition-all before:absolute before:right-0 before:top-0 before:h-12 before:w-6 before:translate-x-12 before:rotate-6 before:bg-white before:opacity-10 before:duration-700  hover:before:-translate-x-80"
       >
         <span className="relative z-10  text-white ">
           {haveAccount ? "Sign up" : "Sign in"}
