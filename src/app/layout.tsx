@@ -25,9 +25,8 @@ export default function RootLayout({
   return (
     
     <html lang="en">
-      <body className={`min-h-screen ${inter.className} dark:bg-slate-900`}>
+      <body className={`min-h-screen ${inter.className} dark:bg-slate-950`}>
       <AppProvider>
-      <Header/>
       {children}
       </AppProvider>
       </body>

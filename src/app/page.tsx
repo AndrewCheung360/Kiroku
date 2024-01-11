@@ -1,8 +1,9 @@
 import Image from 'next/image'
-
+import Header from '../components/Header'
 export default function Home() {
   return (
     <>
+    <Header />
     <div className = "flex-col h-screen py-36">
       <div className = "flex flex-col gap-10 h-full">
       <div className = "text-center h-[80%]">
@@ -20,7 +21,7 @@ export default function Home() {
             Get Started
           </span>
         </button>
-        <button className = "py-3 px-6 bg-slate-900 hover:bg-slate-800 dark:bg-transparent dark:border-2  rounded-md"> 
+        <button className = "py-3 px-6 bg-slate-900 hover:bg-slate-700 dark:hover:bg-slate-800 dark:bg-transparent dark:border-2  rounded-md"> 
           <span className = "text-white font-semibold">
             Demo
           </span>
