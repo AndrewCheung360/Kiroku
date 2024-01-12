@@ -30,7 +30,7 @@
 <h3 align="center">Kiroku</h3>
 
   <p align="center">
-    The go-to spot for tracking manga!
+    Your personalized animanga tracker!
     <br />
     <a href="https://github.com/AndrewCheung360/Kiroku"><strong>Explore the docs »</strong></a>
     <br />
