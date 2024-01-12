@@ -18,9 +18,9 @@ export default function AuthForm() {
         className="flex flex-col items-center justify-start gap-6 bg-white dark:bg-slate-900 dark:border-slate-800 dark:border-2 py-4 rounded-xl w-[30%] h-[80%] px-3"
       >
         <Logo
-          wrapStyle=" rounded-lg px-3 py-2 flex justify-center"
-          mangaStyle="text-4xl"
-          spotStyle="text-4xl"
+          wrapStyle=" rounded-lg px-3 py-2 flex justify-center items-center gap-2"
+          textStyle="text-4xl"
+          iconStyle="text-4xl"
         />
         <GoogleSignInButton />
         <div className="flex justify-center items-center gap-2">

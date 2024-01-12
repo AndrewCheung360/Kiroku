@@ -13,8 +13,8 @@ const defaultUrl = process.env.VERCEL_URL
 
 export const metadata: Metadata = {
   metadataBase: new URL(defaultUrl),
-  title: 'mangaspot',
-  description: 'The go to spot for tracking manga.',
+  title: 'Kiroku',
+  description: 'Your personalized animanga tracker.',
 }
 
 export default function RootLayout({

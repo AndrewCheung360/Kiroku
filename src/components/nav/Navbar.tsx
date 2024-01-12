@@ -14,9 +14,9 @@ export default function Navbar({ signedIn }: NavbarProps) {
       <nav className="flex gap-7 items-center">
         <Link href="/">
           <Logo
-            wrapStyle="rounded-lg px-3 py-2 text-3xl"
-            mangaStyle="hover:text-cyan-500 transition-all ease-in-out duration-800"
-            spotStyle="hover:text-gray-800 hover:dark:text-white transition-all ease-in-out duration-800"
+            wrapStyle="rounded-lg px-3 py-2 flex items-center gap-2"
+            textStyle="transition-all ease-in-out duration-800 text-4xl hover:bg-gradient-to-r hover:from-cyan-500 hover:to-blue-500 hover:text-transparent hover:bg-clip-text"
+            iconStyle="hover:text-gray-800 hover:dark:text-white transition-all ease-in-out duration-800 text-4xl"
           />
         </Link>
         <div className="flex gap-6">
