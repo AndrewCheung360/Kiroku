@@ -23,23 +23,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/AndrewCheung360/MangaSpot">
+  <a href="https://github.com/AndrewCheung360/Kiroku">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">MangaSpot</h3>
+<h3 align="center">Kiroku</h3>
 
   <p align="center">
     The go-to spot for tracking manga!
     <br />
-    <a href="https://github.com/AndrewCheung360/MangaSpot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AndrewCheung360/Kiroku"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AndrewCheung360/MangaSpot">View Demo</a>
+    <a href="https://github.com/AndrewCheung360/Kiroku">View Demo</a>
     ·
-    <a href="https://github.com/AndrewCheung360/MangaSpot/issues">Report Bug</a>
+    <a href="https://github.com/AndrewCheung360/Kiroku/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AndrewCheung360/MangaSpot/issues">Request Feature</a>
+    <a href="https://github.com/AndrewCheung360/Kiroku/issues">Request Feature</a>
   </p>
 </div>
 
@@ -78,7 +78,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `MangaSpot`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `Kiroku`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/AndrewCheung360/MangaSpot.git
+   git clone https://github.com/AndrewCheung360/Kiroku.git
    ```
 3. Install NPM packages
    ```sh
@@ -147,7 +147,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/AndrewCheung360/MangaSpot/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/AndrewCheung360/Kiroku/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,7 +185,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Andrew Cheung - [ https://linkedin.com/in/andrewcheung360]( https://linkedin.com/in/andrewcheung360) - andrewcheung360@gmail.com
 
-Project Link: [https://github.com/AndrewCheung360/MangaSpot](https://github.com/AndrewCheung360/MangaSpot)
+Project Link: [https://github.com/AndrewCheung360/Kiroku](https://github.com/AndrewCheung360/Kiroku)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -204,16 +204,16 @@ Project Link: [https://github.com/AndrewCheung360/MangaSpot](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/AndrewCheung360/MangaSpot.svg?style=for-the-badge
-[contributors-url]: https://github.com/AndrewCheung360/MangaSpot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AndrewCheung360/MangaSpot.svg?style=for-the-badge
-[forks-url]: https://github.com/AndrewCheung360/MangaSpot/network/members
-[stars-shield]: https://img.shields.io/github/stars/AndrewCheung360/MangaSpot.svg?style=for-the-badge
-[stars-url]: https://github.com/AndrewCheung360/MangaSpot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AndrewCheung360/MangaSpot.svg?style=for-the-badge
-[issues-url]: https://github.com/AndrewCheung360/MangaSpot/issues
-[license-shield]: https://img.shields.io/github/license/AndrewCheung360/MangaSpot.svg?style=for-the-badge
-[license-url]: https://github.com/AndrewCheung360/MangaSpot/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/AndrewCheung360/Kiroku.svg?style=for-the-badge
+[contributors-url]: https://github.com/AndrewCheung360/Kiroku/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/AndrewCheung360/Kiroku.svg?style=for-the-badge
+[forks-url]: https://github.com/AndrewCheung360/Kiroku/network/members
+[stars-shield]: https://img.shields.io/github/stars/AndrewCheung360/Kiroku.svg?style=for-the-badge
+[stars-url]: https://github.com/AndrewCheung360/Kiroku/stargazers
+[issues-shield]: https://img.shields.io/github/issues/AndrewCheung360/Kiroku.svg?style=for-the-badge
+[issues-url]: https://github.com/AndrewCheung360/Kiroku/issues
+[license-shield]: https://img.shields.io/github/license/AndrewCheung360/Kiroku.svg?style=for-the-badge
+[license-url]: https://github.com/AndrewCheung360/Kiroku/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/andrewcheung360
 [product-screenshot]: images/screenshot.png
