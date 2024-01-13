@@ -9,6 +9,7 @@ export default async function AuthSection() {
   return user ? (
     <div>
       <SignOutButton/>
+      <AuthModal/>
     </div>
   ) : (
     <div>

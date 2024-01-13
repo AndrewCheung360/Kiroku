@@ -3,7 +3,7 @@ import { useModal } from "../../providers/ModalProvider";
 import AuthForm from "./AuthForm";
 
 export default function AuthModal() {
-  const { isModalOpen, openModal, closeModal } = useModal();
+  const { isModalOpen, closeModal } = useModal();
   const handleClose = (e: React.MouseEvent<HTMLDivElement>) => {
     if (e.currentTarget.id === "modal-bg") {
       closeModal();
