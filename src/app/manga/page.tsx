@@ -1,9 +1,9 @@
-export default function Explore(){
+export default function Manga(){
     return(
         <>
         <div>
             
-            Explore
+            Manga
         </div>
         </>
     )

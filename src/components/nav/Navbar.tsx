@@ -21,7 +21,8 @@ export default function Navbar({ signedIn }: NavbarProps) {
         </Link>
         <div className="flex gap-6">
           {signedIn ? <NavLink path="/dashboard" text="Dashboard" /> : <DashButton />}
-          <NavLink path="/explore" text="Explore" />
+          <NavLink path="/anime" text="Anime" />
+          <NavLink path="/manga" text="Manga" />
         </div>
       </nav>
     </>
