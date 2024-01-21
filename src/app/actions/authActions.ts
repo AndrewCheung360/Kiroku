@@ -8,3 +8,4 @@ export async function getUser(){
   const user = (await supabase.auth.getSession()).data.session?.user
   return user
 }
+
